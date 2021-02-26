@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "boss_tools:block/launchpadbase"
+    },
+    "facing=east": {
+      "model": "boss_tools:block/launchpadbase",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "boss_tools:block/launchpadbase",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "boss_tools:block/launchpadbase",
+      "y": 270
+    }
+  }
+}
